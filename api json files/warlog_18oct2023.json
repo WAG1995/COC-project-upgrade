@@ -1,0 +1,3807 @@
+{
+  "items": [
+    {
+      "result": "lose",
+      "endTime": "20231015T150455.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png"
+        },
+        "clanLevel": 24,
+        "attacks": 48,
+        "stars": 72,
+        "destructionPercentage": 86.73333,
+        "expEarned": 385
+      },
+      "opponent": {
+        "tag": "#PUGC8YY2",
+        "name": "Benteng Takesi",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/A5a7evE2zMCSoqS9OuwbEEZarlzdcN65NQEvKv06qis.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/A5a7evE2zMCSoqS9OuwbEEZarlzdcN65NQEvKv06qis.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/A5a7evE2zMCSoqS9OuwbEEZarlzdcN65NQEvKv06qis.png"
+        },
+        "clanLevel": 27,
+        "stars": 77,
+        "destructionPercentage": 90.26667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20231012T182154.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png"
+        },
+        "clanLevel": 24,
+        "attacks": 60,
+        "stars": 99,
+        "destructionPercentage": 85.825,
+        "expEarned": 487
+      },
+      "opponent": {
+        "tag": "#C0V0P2VQ",
+        "name": "!!BROTHERS!!!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HzVo_1XdFtLyHj1uyL0VVsxHLW31XnoApkdyArVA1Ok.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HzVo_1XdFtLyHj1uyL0VVsxHLW31XnoApkdyArVA1Ok.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HzVo_1XdFtLyHj1uyL0VVsxHLW31XnoApkdyArVA1Ok.png"
+        },
+        "clanLevel": 25,
+        "stars": 108,
+        "destructionPercentage": 95.95
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20231009T211002.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png"
+        },
+        "clanLevel": 24,
+        "attacks": 206,
+        "stars": 478,
+        "destructionPercentage": 545.36664,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 406,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20231001T184955.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 72,
+        "stars": 109,
+        "destructionPercentage": 94.425,
+        "expEarned": 525
+      },
+      "opponent": {
+        "tag": "#8LCLPPY",
+        "name": "Nathaddy Clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2fuiLhVlytni9ipO1mLWqDd4YVMzqDuFSrElp2T_QiM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2fuiLhVlytni9ipO1mLWqDd4YVMzqDuFSrElp2T_QiM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2fuiLhVlytni9ipO1mLWqDd4YVMzqDuFSrElp2T_QiM.png"
+        },
+        "clanLevel": 25,
+        "stars": 107,
+        "destructionPercentage": 90.625
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230929T172212.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 52,
+        "stars": 77,
+        "destructionPercentage": 90.933334,
+        "expEarned": 420
+      },
+      "opponent": {
+        "tag": "#Y8UUL8PL",
+        "name": "AlphaStrike",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png"
+        },
+        "clanLevel": 22,
+        "stars": 76,
+        "destructionPercentage": 88.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230927T013023.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 51,
+        "stars": 76,
+        "destructionPercentage": 90.36667,
+        "expEarned": 428
+      },
+      "opponent": {
+        "tag": "#UUY9V2Q9",
+        "name": "CHƠI HẾT MÌNH",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pR4WrFCpgMflVD8SmJGjo-oHKH9VZ7nPex4mJegZnFY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pR4WrFCpgMflVD8SmJGjo-oHKH9VZ7nPex4mJegZnFY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pR4WrFCpgMflVD8SmJGjo-oHKH9VZ7nPex4mJegZnFY.png"
+        },
+        "clanLevel": 22,
+        "stars": 67,
+        "destructionPercentage": 82.166664
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230924T204005.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 44,
+        "stars": 63,
+        "destructionPercentage": 80.76667,
+        "expEarned": 383
+      },
+      "opponent": {
+        "tag": "#9V9GRUC0",
+        "name": "DELHI",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dh5vaeDR4aMuURPJRmPmj5CQQI6w9S4v3z50L9_yh6g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dh5vaeDR4aMuURPJRmPmj5CQQI6w9S4v3z50L9_yh6g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dh5vaeDR4aMuURPJRmPmj5CQQI6w9S4v3z50L9_yh6g.png"
+        },
+        "clanLevel": 25,
+        "stars": 74,
+        "destructionPercentage": 85.5
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230922T194515.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 47,
+        "stars": 57,
+        "destructionPercentage": 86.56,
+        "expEarned": 315
+      },
+      "opponent": {
+        "tag": "#PJJJG0R0",
+        "name": "TEAM KELANTAN",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/XrBYPJDgnCnlzN7vLsnH3SU4-rZoy4lPyI6VoN9fPr4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/XrBYPJDgnCnlzN7vLsnH3SU4-rZoy4lPyI6VoN9fPr4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/XrBYPJDgnCnlzN7vLsnH3SU4-rZoy4lPyI6VoN9fPr4.png"
+        },
+        "clanLevel": 25,
+        "stars": 68,
+        "destructionPercentage": 93.16
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230920T191601.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 47,
+        "stars": 71,
+        "destructionPercentage": 84.26667,
+        "expEarned": 360
+      },
+      "opponent": {
+        "tag": "#UGCJ8VR2",
+        "name": "claner-game",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3LbbO5L6Lxylsqr_wyerFtk--ULU3L5_58pPJqOorSk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3LbbO5L6Lxylsqr_wyerFtk--ULU3L5_58pPJqOorSk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3LbbO5L6Lxylsqr_wyerFtk--ULU3L5_58pPJqOorSk.png"
+        },
+        "clanLevel": 28,
+        "stars": 74,
+        "destructionPercentage": 88.1
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230918T182135.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 62,
+        "stars": 99,
+        "destructionPercentage": 92.175,
+        "expEarned": 534
+      },
+      "opponent": {
+        "tag": "#2QRYGVG8C",
+        "name": "クランゲームだけのクラン臨時店",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZhkrFtDM-1K6FHpiXBWMNal6rS74WMCTdPErwcDONbw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZhkrFtDM-1K6FHpiXBWMNal6rS74WMCTdPErwcDONbw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZhkrFtDM-1K6FHpiXBWMNal6rS74WMCTdPErwcDONbw.png"
+        },
+        "clanLevel": 11,
+        "stars": 42,
+        "destructionPercentage": 36.175
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230916T185548.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 54,
+        "stars": 81,
+        "destructionPercentage": 73.225,
+        "expEarned": 431
+      },
+      "opponent": {
+        "tag": "#G9Q2YGCV",
+        "name": "BD,,,FRIEND",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
+        },
+        "clanLevel": 21,
+        "stars": 107,
+        "destructionPercentage": 93.275
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230914T192527.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 62,
+        "stars": 94,
+        "destructionPercentage": 84.25,
+        "expEarned": 475
+      },
+      "opponent": {
+        "tag": "#CPLJ82CL",
+        "name": "jombang jos",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zMg452TAMS1hhag5zKkZZlsfe-CVbJ3khjoJ2lIBNVs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zMg452TAMS1hhag5zKkZZlsfe-CVbJ3khjoJ2lIBNVs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zMg452TAMS1hhag5zKkZZlsfe-CVbJ3khjoJ2lIBNVs.png"
+        },
+        "clanLevel": 27,
+        "stars": 100,
+        "destructionPercentage": 86.775
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230912T190126.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 63,
+        "stars": 110,
+        "destructionPercentage": 94.075,
+        "expEarned": 524
+      },
+      "opponent": {
+        "tag": "#298R2G88R",
+        "name": "P¡Na$ 8MeRge™",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IeZLMfU6-sjYUyVpxqCCetwy7aUJ6SuuzdSR7zW7-6o.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IeZLMfU6-sjYUyVpxqCCetwy7aUJ6SuuzdSR7zW7-6o.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IeZLMfU6-sjYUyVpxqCCetwy7aUJ6SuuzdSR7zW7-6o.png"
+        },
+        "clanLevel": 19,
+        "stars": 88,
+        "destructionPercentage": 77.925
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230910T031307.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 207,
+        "stars": 435,
+        "destructionPercentage": 530.8333,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 433,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230901T194349.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 62,
+        "stars": 100,
+        "destructionPercentage": 88.6,
+        "expEarned": 529
+      },
+      "opponent": {
+        "tag": "#GJ2PYY8G",
+        "name": "وزارة الداخلية",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zAh2c6jXbsJTqwoNNQQt1a8oSWlflCvjWhUtEPh8ip4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zAh2c6jXbsJTqwoNNQQt1a8oSWlflCvjWhUtEPh8ip4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zAh2c6jXbsJTqwoNNQQt1a8oSWlflCvjWhUtEPh8ip4.png"
+        },
+        "clanLevel": 23,
+        "stars": 85,
+        "destructionPercentage": 75.75
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230830T185354.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 64,
+        "stars": 90,
+        "destructionPercentage": 84.85,
+        "expEarned": 484
+      },
+      "opponent": {
+        "tag": "#2R8QQ2RJ",
+        "name": "SMGT",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cmaLwhDG-Y_S70uW2JjCxkjqhamvzOkNbAkMAstMYTY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cmaLwhDG-Y_S70uW2JjCxkjqhamvzOkNbAkMAstMYTY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cmaLwhDG-Y_S70uW2JjCxkjqhamvzOkNbAkMAstMYTY.png"
+        },
+        "clanLevel": 30,
+        "stars": 101,
+        "destructionPercentage": 87.675
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230827T155347.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 51,
+        "stars": 74,
+        "destructionPercentage": 86.03333,
+        "expEarned": 422
+      },
+      "opponent": {
+        "tag": "#GGJP2GY0",
+        "name": "big c",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/lQ5AyTYBvEUGElS-QMf7nXJUpcGGxJwhWApJc57pXFg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/lQ5AyTYBvEUGElS-QMf7nXJUpcGGxJwhWApJc57pXFg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/lQ5AyTYBvEUGElS-QMf7nXJUpcGGxJwhWApJc57pXFg.png"
+        },
+        "clanLevel": 26,
+        "stars": 62,
+        "destructionPercentage": 74.13333
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230825T154453.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 62,
+        "stars": 91,
+        "destructionPercentage": 84.6,
+        "expEarned": 492
+      },
+      "opponent": {
+        "tag": "#22YYP088C",
+        "name": "ЭКИБАСТУЗ 014",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png"
+        },
+        "clanLevel": 25,
+        "stars": 107,
+        "destructionPercentage": 89.85
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230822T192302.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 64,
+        "stars": 101,
+        "destructionPercentage": 87.5,
+        "expEarned": 459
+      },
+      "opponent": {
+        "tag": "#U9YJ82P2",
+        "name": "وردة القبائل",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/U_7sjsM3vOyxh4EcZUotx2CVrSojTWRpdR5dN-8cdr8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/U_7sjsM3vOyxh4EcZUotx2CVrSojTWRpdR5dN-8cdr8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/U_7sjsM3vOyxh4EcZUotx2CVrSojTWRpdR5dN-8cdr8.png"
+        },
+        "clanLevel": 25,
+        "stars": 116,
+        "destructionPercentage": 98
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230820T102158.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 58,
+        "stars": 87,
+        "destructionPercentage": 80.85,
+        "expEarned": 465
+      },
+      "opponent": {
+        "tag": "#G0RVUY8J",
+        "name": "صبايا حلب العز",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AIyWpGQGUiwGtsNC0IwRDFOtGBBEefLQR2SQKYKLcFE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AIyWpGQGUiwGtsNC0IwRDFOtGBBEefLQR2SQKYKLcFE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AIyWpGQGUiwGtsNC0IwRDFOtGBBEefLQR2SQKYKLcFE.png"
+        },
+        "clanLevel": 24,
+        "stars": 110,
+        "destructionPercentage": 96.025
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230817T175805.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 65,
+        "stars": 100,
+        "destructionPercentage": 86.65,
+        "expEarned": 532
+      },
+      "opponent": {
+        "tag": "#VQP9UC0V",
+        "name": "لهيب النار",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
+        },
+        "clanLevel": 23,
+        "stars": 89,
+        "destructionPercentage": 79.55
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230815T181941.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 70,
+        "stars": 101,
+        "destructionPercentage": 89.15,
+        "expEarned": 528
+      },
+      "opponent": {
+        "tag": "#Y2PLQPYC",
+        "name": "NAVY FORCE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PtnD6w3INDv6c9rxeDA5XahTVmk63lybsqP2Dgjx-Tc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PtnD6w3INDv6c9rxeDA5XahTVmk63lybsqP2Dgjx-Tc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PtnD6w3INDv6c9rxeDA5XahTVmk63lybsqP2Dgjx-Tc.png"
+        },
+        "clanLevel": 32,
+        "stars": 57,
+        "destructionPercentage": 50.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230813T122219.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 65,
+        "stars": 102,
+        "destructionPercentage": 90.425,
+        "expEarned": 531
+      },
+      "opponent": {
+        "tag": "#U0RUL08P",
+        "name": "Indian battle",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-_Pt8L3P078qc4vpZFndj2jb4WM4H-CBMTwQZRcsaNM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-_Pt8L3P078qc4vpZFndj2jb4WM4H-CBMTwQZRcsaNM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-_Pt8L3P078qc4vpZFndj2jb4WM4H-CBMTwQZRcsaNM.png"
+        },
+        "clanLevel": 22,
+        "stars": 96,
+        "destructionPercentage": 86.475
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230810T213000.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 209,
+        "stars": 546,
+        "destructionPercentage": 590.76666,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 366,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230802T193631.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 58,
+        "stars": 97,
+        "destructionPercentage": 88.95,
+        "expEarned": 468
+      },
+      "opponent": {
+        "tag": "#9LGCPPGC",
+        "name": "BornEviL",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yCGHM04rgnVjQeZ6Xr0ZFeVv_FVvmJSnGzi1HxG6Zmw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yCGHM04rgnVjQeZ6Xr0ZFeVv_FVvmJSnGzi1HxG6Zmw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yCGHM04rgnVjQeZ6Xr0ZFeVv_FVvmJSnGzi1HxG6Zmw.png"
+        },
+        "clanLevel": 24,
+        "stars": 111,
+        "destructionPercentage": 94.5
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230731T095031.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 51,
+        "stars": 78,
+        "destructionPercentage": 90.1,
+        "expEarned": 338
+      },
+      "opponent": {
+        "tag": "#9RVC0Q0L",
+        "name": "TEAM. DI AN",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/8-Jk2aWuIVLZoFkDKKN-TToInby_VXpJIb-Ed7bSSxU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8-Jk2aWuIVLZoFkDKKN-TToInby_VXpJIb-Ed7bSSxU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8-Jk2aWuIVLZoFkDKKN-TToInby_VXpJIb-Ed7bSSxU.png"
+        },
+        "clanLevel": 19,
+        "stars": 83,
+        "destructionPercentage": 97.166664
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230729T003644.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UULp6mO5J-eQfPhQTUMsIAcqTAz1I2bkjFeyZdJvuxo.png"
+        },
+        "clanLevel": 23,
+        "attacks": 54,
+        "stars": 77,
+        "destructionPercentage": 90.933334,
+        "expEarned": 412
+      },
+      "opponent": {
+        "tag": "#U8YGYQUG",
+        "name": "bacon bits",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KOtqyYKM_8rXYa4cxvZvsNezAnlouLBSU_mfU6Tj4oc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KOtqyYKM_8rXYa4cxvZvsNezAnlouLBSU_mfU6Tj4oc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KOtqyYKM_8rXYa4cxvZvsNezAnlouLBSU_mfU6Tj4oc.png"
+        },
+        "clanLevel": 23,
+        "stars": 75,
+        "destructionPercentage": 86.63333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230726T231930.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 51,
+        "stars": 78,
+        "destructionPercentage": 90.46667,
+        "expEarned": 406
+      },
+      "opponent": {
+        "tag": "#200CGJ8YU",
+        "name": "kingdom",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/S3ChIG27oLdbF6OGoKP5lZOuAm5mPcLcwxAC2wHhQKM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/S3ChIG27oLdbF6OGoKP5lZOuAm5mPcLcwxAC2wHhQKM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/S3ChIG27oLdbF6OGoKP5lZOuAm5mPcLcwxAC2wHhQKM.png"
+        },
+        "clanLevel": 21,
+        "stars": 32,
+        "destructionPercentage": 44.033333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230723T013445.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 47,
+        "stars": 67,
+        "destructionPercentage": 81.166664,
+        "expEarned": 418
+      },
+      "opponent": {
+        "tag": "#2YVQLQL8P",
+        "name": "TAMILAN DAAAA!!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/I8gAATsHLACQSQptqq-I99Og2gFNr1cD27hDy5wl_B8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/I8gAATsHLACQSQptqq-I99Og2gFNr1cD27hDy5wl_B8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/I8gAATsHLACQSQptqq-I99Og2gFNr1cD27hDy5wl_B8.png"
+        },
+        "clanLevel": 9,
+        "stars": 35,
+        "destructionPercentage": 45.433334
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230721T002233.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 49,
+        "stars": 69,
+        "destructionPercentage": 83.8,
+        "expEarned": 416
+      },
+      "opponent": {
+        "tag": "#208RPJ0LQ",
+        "name": "LOS PALADINES",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GONBhUkwROg_OhBLiirxHEj_qua2sCidGqfxzRkp9Yg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GONBhUkwROg_OhBLiirxHEj_qua2sCidGqfxzRkp9Yg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GONBhUkwROg_OhBLiirxHEj_qua2sCidGqfxzRkp9Yg.png"
+        },
+        "clanLevel": 23,
+        "stars": 54,
+        "destructionPercentage": 65.433334
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230719T011829.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 44,
+        "stars": 63,
+        "destructionPercentage": 89.92,
+        "expEarned": 362
+      },
+      "opponent": {
+        "tag": "#LU2JQQYQ",
+        "name": "Alianza Ecuador",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FDLR7gCJtyjwRpyaKYBwlI5qYdG7vsbFkKa867RnxJw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FDLR7gCJtyjwRpyaKYBwlI5qYdG7vsbFkKa867RnxJw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FDLR7gCJtyjwRpyaKYBwlI5qYdG7vsbFkKa867RnxJw.png"
+        },
+        "clanLevel": 19,
+        "stars": 55,
+        "destructionPercentage": 78.48
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230715T213546.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 50,
+        "stars": 70,
+        "destructionPercentage": 83.46667,
+        "expEarned": 373
+      },
+      "opponent": {
+        "tag": "#2PC0V99YG",
+        "name": "T-BAG",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JU8DQXPpULZ51Ry8FNOrXUtvXlWl5NbkZ6WZzKCgWwc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JU8DQXPpULZ51Ry8FNOrXUtvXlWl5NbkZ6WZzKCgWwc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JU8DQXPpULZ51Ry8FNOrXUtvXlWl5NbkZ6WZzKCgWwc.png"
+        },
+        "clanLevel": 20,
+        "stars": 82,
+        "destructionPercentage": 95.2
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230713T150151.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 41,
+        "stars": 72,
+        "destructionPercentage": 88.5,
+        "expEarned": 354
+      },
+      "opponent": {
+        "tag": "#P20Y9C2G",
+        "name": "The Gurkhas",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/TqQjOJuOPIpkqZFHglRwhM3MYI9yGfVji9dmAey3X90.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/TqQjOJuOPIpkqZFHglRwhM3MYI9yGfVji9dmAey3X90.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/TqQjOJuOPIpkqZFHglRwhM3MYI9yGfVji9dmAey3X90.png"
+        },
+        "clanLevel": 24,
+        "stars": 87,
+        "destructionPercentage": 98.066666
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230711T000037.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 206,
+        "stars": 439,
+        "destructionPercentage": 538.43335,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 417,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230702T231537.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 43,
+        "stars": 83,
+        "destructionPercentage": 96.2,
+        "expEarned": 398
+      },
+      "opponent": {
+        "tag": "#822CQYQ9",
+        "name": "quebecguerre",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/wB-zozpuRZlIQqM7DyhD_sATNPoaI7NeQsuSuDyyiOw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/wB-zozpuRZlIQqM7DyhD_sATNPoaI7NeQsuSuDyyiOw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/wB-zozpuRZlIQqM7DyhD_sATNPoaI7NeQsuSuDyyiOw.png"
+        },
+        "clanLevel": 23,
+        "stars": 47,
+        "destructionPercentage": 57.066666
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230630T210338.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 42,
+        "stars": 60,
+        "destructionPercentage": 91.2,
+        "expEarned": 309
+      },
+      "opponent": {
+        "tag": "#29J2YR9L8",
+        "name": "Iran",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/r5snsqtD-bQ9HutNm9yBLHwBR7qjMCu1ChM9__jg9Rs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/r5snsqtD-bQ9HutNm9yBLHwBR7qjMCu1ChM9__jg9Rs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/r5snsqtD-bQ9HutNm9yBLHwBR7qjMCu1ChM9__jg9Rs.png"
+        },
+        "clanLevel": 18,
+        "stars": 65,
+        "destructionPercentage": 90.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230628T184130.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 39,
+        "stars": 69,
+        "destructionPercentage": 96.48,
+        "expEarned": 353
+      },
+      "opponent": {
+        "tag": "#8J9RJRY2",
+        "name": "RUN 974",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png"
+        },
+        "clanLevel": 23,
+        "stars": 58,
+        "destructionPercentage": 76
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230626T191338.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 33,
+        "stars": 62,
+        "destructionPercentage": 89.52,
+        "expEarned": 297
+      },
+      "opponent": {
+        "tag": "#2J8URJJG",
+        "name": "pakistani girls",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/1Keuu7A_y04_1gxbcqrYnaYF_MGK7WXBMvc1wNyC5No.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/1Keuu7A_y04_1gxbcqrYnaYF_MGK7WXBMvc1wNyC5No.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/1Keuu7A_y04_1gxbcqrYnaYF_MGK7WXBMvc1wNyC5No.png"
+        },
+        "clanLevel": 25,
+        "stars": 74,
+        "destructionPercentage": 99.24
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230624T155256.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 32,
+        "stars": 67,
+        "destructionPercentage": 93.08,
+        "expEarned": 358
+      },
+      "opponent": {
+        "tag": "#UU8YUJV9",
+        "name": "時光旅行",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/utkEvC5eM9g-obV8qHWDTB_2kwn16WnIJ7LaHs1CA0o.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/utkEvC5eM9g-obV8qHWDTB_2kwn16WnIJ7LaHs1CA0o.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/utkEvC5eM9g-obV8qHWDTB_2kwn16WnIJ7LaHs1CA0o.png"
+        },
+        "clanLevel": 24,
+        "stars": 61,
+        "destructionPercentage": 80.92
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230621T154856.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 39,
+        "stars": 61,
+        "destructionPercentage": 87.52,
+        "expEarned": 313
+      },
+      "opponent": {
+        "tag": "#GJG0JVG9",
+        "name": "ADDICTED TO COC",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rV43t0oT9_Jfk7qhKIZgsnBS_ERg84x3FUhATrhANUc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rV43t0oT9_Jfk7qhKIZgsnBS_ERg84x3FUhATrhANUc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rV43t0oT9_Jfk7qhKIZgsnBS_ERg84x3FUhATrhANUc.png"
+        },
+        "clanLevel": 22,
+        "stars": 66,
+        "destructionPercentage": 89.08
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230619T140043.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 43,
+        "stars": 67,
+        "destructionPercentage": 90.76,
+        "expEarned": 360
+      },
+      "opponent": {
+        "tag": "#VJRPLL2R",
+        "name": "AE VUI LÀ CHÍNH",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/snQ1zwTE6YdtpkAJJ_Gzyn9vY1XpjOrWgWb_QBA_Zhc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/snQ1zwTE6YdtpkAJJ_Gzyn9vY1XpjOrWgWb_QBA_Zhc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/snQ1zwTE6YdtpkAJJ_Gzyn9vY1XpjOrWgWb_QBA_Zhc.png"
+        },
+        "clanLevel": 18,
+        "stars": 66,
+        "destructionPercentage": 91.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230617T090346.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 48,
+        "stars": 77,
+        "destructionPercentage": 90.933334,
+        "expEarned": 420
+      },
+      "opponent": {
+        "tag": "#2PUCPCYCQ",
+        "name": "당근마켓",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/DUJaEDtM5tnWYk_hITDdPEEdtBpk0uws4dWtAqOBc2M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/DUJaEDtM5tnWYk_hITDdPEEdtBpk0uws4dWtAqOBc2M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/DUJaEDtM5tnWYk_hITDdPEEdtBpk0uws4dWtAqOBc2M.png"
+        },
+        "clanLevel": 19,
+        "stars": 70,
+        "destructionPercentage": 87.86667
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230615T020346.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 47,
+        "stars": 70,
+        "destructionPercentage": 86.433334,
+        "expEarned": 417
+      },
+      "opponent": {
+        "tag": "#GUYQR022",
+        "name": "REDBULL",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/wx3USn_B8gpsB_u9dpziU0_w4f5IFH6WerQNjj-GMYs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/wx3USn_B8gpsB_u9dpziU0_w4f5IFH6WerQNjj-GMYs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/wx3USn_B8gpsB_u9dpziU0_w4f5IFH6WerQNjj-GMYs.png"
+        },
+        "clanLevel": 23,
+        "stars": 53,
+        "destructionPercentage": 62.633335
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230612T023633.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 40,
+        "stars": 76,
+        "destructionPercentage": 91.2,
+        "expEarned": 418
+      },
+      "opponent": {
+        "tag": "#22PLJ28C8",
+        "name": "Loyal Penguins",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Pk-_B-p92a0HOnFzcrTSMaYikBo82uNH8Qs9Tnkx7ao.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Pk-_B-p92a0HOnFzcrTSMaYikBo82uNH8Qs9Tnkx7ao.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Pk-_B-p92a0HOnFzcrTSMaYikBo82uNH8Qs9Tnkx7ao.png"
+        },
+        "clanLevel": 23,
+        "stars": 73,
+        "destructionPercentage": 84.73333
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230609T212758.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 196,
+        "stars": 414,
+        "destructionPercentage": 493.73334,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 401,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230529T005252.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 27,
+        "stars": 54,
+        "destructionPercentage": 84.08,
+        "expEarned": 310
+      },
+      "opponent": {
+        "tag": "#J2GPQVVC",
+        "name": "Neel Battery",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/V7cmoSctput0BqPFryJVsEGqV96Wgit9Zx_II4GcatU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/V7cmoSctput0BqPFryJVsEGqV96Wgit9Zx_II4GcatU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/V7cmoSctput0BqPFryJVsEGqV96Wgit9Zx_II4GcatU.png"
+        },
+        "clanLevel": 26,
+        "stars": 70,
+        "destructionPercentage": 93.8
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230526T224612.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 47,
+        "stars": 67,
+        "destructionPercentage": 86.53333,
+        "expEarned": 367
+      },
+      "opponent": {
+        "tag": "#28YP8QVY0",
+        "name": "gatornation4422",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SWbnIR_7T4HHtT2li0SzBeB5qFs7PAW2BToeOifJ3n0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SWbnIR_7T4HHtT2li0SzBeB5qFs7PAW2BToeOifJ3n0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SWbnIR_7T4HHtT2li0SzBeB5qFs7PAW2BToeOifJ3n0.png"
+        },
+        "clanLevel": 24,
+        "stars": 71,
+        "destructionPercentage": 85.2
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230524T111446.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 52,
+        "stars": 74,
+        "destructionPercentage": 90.833336,
+        "expEarned": 367
+      },
+      "opponent": {
+        "tag": "#2YCQURQLU",
+        "name": "BABY DRAGON WAR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KadS0VLw9WieZrIW-7Bx6Ly2QJhUsDPxexkb0UsfoyE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KadS0VLw9WieZrIW-7Bx6Ly2QJhUsDPxexkb0UsfoyE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KadS0VLw9WieZrIW-7Bx6Ly2QJhUsDPxexkb0UsfoyE.png"
+        },
+        "clanLevel": 14,
+        "stars": 79,
+        "destructionPercentage": 88.5
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230522T023835.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 42,
+        "stars": 73,
+        "destructionPercentage": 88.7,
+        "expEarned": 415
+      },
+      "opponent": {
+        "tag": "#QYYYP8PJ",
+        "name": "Just for fun",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Im4DlsayRpIdshkgZm9GCV7o2-SRyywwyYPwZxy-a8c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Im4DlsayRpIdshkgZm9GCV7o2-SRyywwyYPwZxy-a8c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Im4DlsayRpIdshkgZm9GCV7o2-SRyywwyYPwZxy-a8c.png"
+        },
+        "clanLevel": 26,
+        "stars": 67,
+        "destructionPercentage": 78.36667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230519T201337.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 43,
+        "stars": 73,
+        "destructionPercentage": 88.8,
+        "expEarned": 342
+      },
+      "opponent": {
+        "tag": "#LPPVVC2Y",
+        "name": "(azerilar)",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6qnZWcEd6eeucX8y6t4TGmP36fRn-YbGQvRQUf-FMpU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6qnZWcEd6eeucX8y6t4TGmP36fRn-YbGQvRQUf-FMpU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6qnZWcEd6eeucX8y6t4TGmP36fRn-YbGQvRQUf-FMpU.png"
+        },
+        "clanLevel": 26,
+        "stars": 77,
+        "destructionPercentage": 87.36667
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230517T205754.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 45,
+        "stars": 76,
+        "destructionPercentage": 90.7,
+        "expEarned": 405
+      },
+      "opponent": {
+        "tag": "#G9VG00V9",
+        "name": "دوستان بامرام",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png"
+        },
+        "clanLevel": 19,
+        "stars": 74,
+        "destructionPercentage": 84.36667
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230515T020612.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 50,
+        "stars": 74,
+        "destructionPercentage": 91,
+        "expEarned": 412
+      },
+      "opponent": {
+        "tag": "#9L9RJLPJ",
+        "name": "Shadow Catcher",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Uyk4YerKSZ_xvzjXqxDJGVtUDIXKi-6NATt0BlU2VPs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Uyk4YerKSZ_xvzjXqxDJGVtUDIXKi-6NATt0BlU2VPs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Uyk4YerKSZ_xvzjXqxDJGVtUDIXKi-6NATt0BlU2VPs.png"
+        },
+        "clanLevel": 20,
+        "stars": 43,
+        "destructionPercentage": 55.033333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230513T024645.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 47,
+        "stars": 74,
+        "destructionPercentage": 89.833336,
+        "expEarned": 410
+      },
+      "opponent": {
+        "tag": "#VU08VP90",
+        "name": "clan hội tụ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rfQ_AsTsl3QL3oMkIE9JgR-XOFlBEkRsRCMomZiopg0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rfQ_AsTsl3QL3oMkIE9JgR-XOFlBEkRsRCMomZiopg0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rfQ_AsTsl3QL3oMkIE9JgR-XOFlBEkRsRCMomZiopg0.png"
+        },
+        "clanLevel": 21,
+        "stars": 63,
+        "destructionPercentage": 76.1
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230511T024933.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 205,
+        "stars": 443,
+        "destructionPercentage": 551.06665,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 386,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20230502T112140.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 46,
+        "stars": 75,
+        "destructionPercentage": 88.76667,
+        "expEarned": 349
+      },
+      "opponent": {
+        "tag": "#90QJ2G9G",
+        "name": "Majesty Kings",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AFpOuz92G2XCIDFt8BH2rDMHttXU-OZjKVslAVSyA6s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AFpOuz92G2XCIDFt8BH2rDMHttXU-OZjKVslAVSyA6s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AFpOuz92G2XCIDFt8BH2rDMHttXU-OZjKVslAVSyA6s.png"
+        },
+        "clanLevel": 22,
+        "stars": 77,
+        "destructionPercentage": 89.63333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230429T194444.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KDXUgt_tWERo5R4oQEWlnnHZHZGdihHQrJZKxtS5ers.png"
+        },
+        "clanLevel": 22,
+        "attacks": 47,
+        "stars": 70,
+        "destructionPercentage": 87.53333,
+        "expEarned": 405
+      },
+      "opponent": {
+        "tag": "#9QU8GCPP",
+        "name": "چوکو بندر",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z8Z1Er0uyqqaTAyDqsIh21SoIfs9WWFvmUgw8vH8jcw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z8Z1Er0uyqqaTAyDqsIh21SoIfs9WWFvmUgw8vH8jcw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z8Z1Er0uyqqaTAyDqsIh21SoIfs9WWFvmUgw8vH8jcw.png"
+        },
+        "clanLevel": 20,
+        "stars": 54,
+        "destructionPercentage": 63.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230410T232529.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png"
+        },
+        "clanLevel": 21,
+        "attacks": 208,
+        "stars": 573,
+        "destructionPercentage": 617.9667,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 345,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230310T200928.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png"
+        },
+        "clanLevel": 21,
+        "attacks": 205,
+        "stars": 506,
+        "destructionPercentage": 589.1,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 352,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230210T031612.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0rajdr8HrGvfpxE9MaWDPrYBxvMxW8Z7c15uSTClxPQ.png"
+        },
+        "clanLevel": 21,
+        "attacks": 199,
+        "stars": 513,
+        "destructionPercentage": 569.8,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 349,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20230109T174956.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/LPug530ixJT2NZtwT0EI_4VnG55MkANVOXooIpGnNVw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/LPug530ixJT2NZtwT0EI_4VnG55MkANVOXooIpGnNVw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/LPug530ixJT2NZtwT0EI_4VnG55MkANVOXooIpGnNVw.png"
+        },
+        "clanLevel": 20,
+        "attacks": 98,
+        "stars": 274,
+        "destructionPercentage": 559.4667,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 170,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210926T174003.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 31,
+        "stars": 47,
+        "destructionPercentage": 84.25,
+        "expEarned": 253
+      },
+      "opponent": {
+        "tag": "#R080YYJ9",
+        "name": "Golden Skans",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMPIPvA4B8-fEbqLd8UKOnOBPasQZF63vE8UGz1MpV8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMPIPvA4B8-fEbqLd8UKOnOBPasQZF63vE8UGz1MpV8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMPIPvA4B8-fEbqLd8UKOnOBPasQZF63vE8UGz1MpV8.png"
+        },
+        "clanLevel": 14,
+        "stars": 41,
+        "destructionPercentage": 79.8
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210924T180757.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 27,
+        "stars": 52,
+        "destructionPercentage": 78.44,
+        "expEarned": 222
+      },
+      "opponent": {
+        "tag": "#2PJQ2P99G",
+        "name": "Mallu clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png"
+        },
+        "clanLevel": 13,
+        "stars": 66,
+        "destructionPercentage": 92.08
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210922T175518.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 33,
+        "stars": 53,
+        "destructionPercentage": 91.7,
+        "expEarned": 245
+      },
+      "opponent": {
+        "tag": "#92UVQVP2",
+        "name": "Gladiator$",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/LEiLtZK4UawLdYH3N2qxAuPZ3Ybj-EmbcHgXxD4T454.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/LEiLtZK4UawLdYH3N2qxAuPZ3Ybj-EmbcHgXxD4T454.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/LEiLtZK4UawLdYH3N2qxAuPZ3Ybj-EmbcHgXxD4T454.png"
+        },
+        "clanLevel": 15,
+        "stars": 51,
+        "destructionPercentage": 92
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210920T165803.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 26,
+        "stars": 33,
+        "destructionPercentage": 82.4,
+        "expEarned": 166
+      },
+      "opponent": {
+        "tag": "#J0Q29GV9",
+        "name": "virus villa",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AWAfICFe6_TV1tMaDyglcRQDUWUQLQ3wXHwYiw_s7NE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AWAfICFe6_TV1tMaDyglcRQDUWUQLQ3wXHwYiw_s7NE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AWAfICFe6_TV1tMaDyglcRQDUWUQLQ3wXHwYiw_s7NE.png"
+        },
+        "clanLevel": 16,
+        "stars": 44,
+        "destructionPercentage": 97.73333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210918T020731.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 28,
+        "stars": 39,
+        "destructionPercentage": 91.86667,
+        "expEarned": 211
+      },
+      "opponent": {
+        "tag": "#Y0JYQGRQ",
+        "name": "Killer Instinct",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/58kQjstG45ZAr-hXH25RLafh5qqoo3YzoDz6hAfbKIQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/58kQjstG45ZAr-hXH25RLafh5qqoo3YzoDz6hAfbKIQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/58kQjstG45ZAr-hXH25RLafh5qqoo3YzoDz6hAfbKIQ.png"
+        },
+        "clanLevel": 13,
+        "stars": 36,
+        "destructionPercentage": 86.13333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210915T185616.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 32,
+        "stars": 50,
+        "destructionPercentage": 87.7,
+        "expEarned": 257
+      },
+      "opponent": {
+        "tag": "#29PGVVVVG",
+        "name": "DOSTLUĞUN KLANI",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dj3ZfJvmf1yg0G7ZyjTi0Cw0nTdQVuP7zm3l4pkV15k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dj3ZfJvmf1yg0G7ZyjTi0Cw0nTdQVuP7zm3l4pkV15k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dj3ZfJvmf1yg0G7ZyjTi0Cw0nTdQVuP7zm3l4pkV15k.png"
+        },
+        "clanLevel": 11,
+        "stars": 50,
+        "destructionPercentage": 87.25
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210913T173347.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 30,
+        "stars": 56,
+        "destructionPercentage": 96.6,
+        "expEarned": 245
+      },
+      "opponent": {
+        "tag": "#LY2GVYRY",
+        "name": "★WE ARE WIN★",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dysiCToflQ-GSLHDqh8YRr050Nlswl2H9K0-1Qbhp7A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dysiCToflQ-GSLHDqh8YRr050Nlswl2H9K0-1Qbhp7A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dysiCToflQ-GSLHDqh8YRr050Nlswl2H9K0-1Qbhp7A.png"
+        },
+        "clanLevel": 15,
+        "stars": 41,
+        "destructionPercentage": 79.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210908T162116.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 92.2,
+        "expEarned": 121
+      },
+      "opponent": {
+        "tag": "#2PLP0CP8L",
+        "name": "آرسام",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+        },
+        "clanLevel": 4,
+        "stars": 5,
+        "destructionPercentage": 31.4
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20210906T030855.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ARZs8773cusv7fL60rM0IuV8z7rX1w9UzR1_-l-wE9U.png"
+        },
+        "clanLevel": 16,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 98,
+        "expEarned": 71
+      },
+      "opponent": {
+        "tag": "#CRY9CLGR",
+        "name": "Sipendekan Wani",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/bpjWMZz606PFZeQJq2itYsiZby4zOJHpDsDlgWZw7B8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/bpjWMZz606PFZeQJq2itYsiZby4zOJHpDsDlgWZw7B8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/bpjWMZz606PFZeQJq2itYsiZby4zOJHpDsDlgWZw7B8.png"
+        },
+        "clanLevel": 10,
+        "stars": 13,
+        "destructionPercentage": 98
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210831T162320.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 43,
+        "stars": 86,
+        "destructionPercentage": 79.625,
+        "expEarned": 374
+      },
+      "opponent": {
+        "tag": "#2Y28288C8",
+        "name": "INFINITY",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IqvefA2R9Hix5up9K8SwF7ujMPbiZlaAEQjy9kGwO40.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IqvefA2R9Hix5up9K8SwF7ujMPbiZlaAEQjy9kGwO40.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IqvefA2R9Hix5up9K8SwF7ujMPbiZlaAEQjy9kGwO40.png"
+        },
+        "clanLevel": 13,
+        "stars": 71,
+        "destructionPercentage": 72.575
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210829T165213.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 32,
+        "stars": 61,
+        "destructionPercentage": 84.6,
+        "expEarned": 274
+      },
+      "opponent": {
+        "tag": "#28GCPJ8GP",
+        "name": "RED DRAGON",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
+        },
+        "clanLevel": 12,
+        "stars": 25,
+        "destructionPercentage": 34.4
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210827T162928.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 35,
+        "stars": 63,
+        "destructionPercentage": 78.333336,
+        "expEarned": 243
+      },
+      "opponent": {
+        "tag": "#Q9GVRVVJ",
+        "name": "KHM ADHOLOKAM",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/a8HUzawjeaclpK-p_PuAD7v7P_o5hPsc8F6ftfYkJh4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/a8HUzawjeaclpK-p_PuAD7v7P_o5hPsc8F6ftfYkJh4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/a8HUzawjeaclpK-p_PuAD7v7P_o5hPsc8F6ftfYkJh4.png"
+        },
+        "clanLevel": 18,
+        "stars": 79,
+        "destructionPercentage": 94.86667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210825T001005.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 50,
+        "stars": 75,
+        "destructionPercentage": 88.4,
+        "expEarned": 275
+      },
+      "opponent": {
+        "tag": "#C202UQY0",
+        "name": "WHY SO SERIOUS!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cS_JiRsVt0_MeWBPg7y8h-WSJ0q8APZa9ergbEIfFCo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cS_JiRsVt0_MeWBPg7y8h-WSJ0q8APZa9ergbEIfFCo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cS_JiRsVt0_MeWBPg7y8h-WSJ0q8APZa9ergbEIfFCo.png"
+        },
+        "clanLevel": 19,
+        "stars": 89,
+        "destructionPercentage": 99.86667
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210822T185444.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 50,
+        "stars": 83,
+        "destructionPercentage": 96.3,
+        "expEarned": 347
+      },
+      "opponent": {
+        "tag": "#YLG08UQ0",
+        "name": "HUNGER FOR WAR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png"
+        },
+        "clanLevel": 18,
+        "stars": 62,
+        "destructionPercentage": 80.066666
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210820T191756.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 53,
+        "stars": 81,
+        "destructionPercentage": 94.2,
+        "expEarned": 340
+      },
+      "opponent": {
+        "tag": "#98GQR2GR",
+        "name": "House Stark",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/q3frr99vkYLJ-cN4enXXJ9Hb69jAeAOhjaLInILnh2I.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/q3frr99vkYLJ-cN4enXXJ9Hb69jAeAOhjaLInILnh2I.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/q3frr99vkYLJ-cN4enXXJ9Hb69jAeAOhjaLInILnh2I.png"
+        },
+        "clanLevel": 16,
+        "stars": 67,
+        "destructionPercentage": 79.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210818T190846.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 50,
+        "stars": 72,
+        "destructionPercentage": 87,
+        "expEarned": 291
+      },
+      "opponent": {
+        "tag": "#V00RR998",
+        "name": "ĎÄŘK WÂŘŘÍØŘŚ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png"
+        },
+        "clanLevel": 17,
+        "stars": 90,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210816T190819.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 55,
+        "stars": 78,
+        "destructionPercentage": 95.36667,
+        "expEarned": 344
+      },
+      "opponent": {
+        "tag": "#229YJCR9P",
+        "name": "TERMINALHALLOWS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/YqqHg5smNyrT3r8xu9rpaEtIJMZPEkV2AiI5OuEaNxw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/YqqHg5smNyrT3r8xu9rpaEtIJMZPEkV2AiI5OuEaNxw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/YqqHg5smNyrT3r8xu9rpaEtIJMZPEkV2AiI5OuEaNxw.png"
+        },
+        "clanLevel": 16,
+        "stars": 65,
+        "destructionPercentage": 78.333336
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210814T184632.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 55,
+        "stars": 81,
+        "destructionPercentage": 94.03333,
+        "expEarned": 338
+      },
+      "opponent": {
+        "tag": "#28P989Q2Y",
+        "name": "30+ cafe 2.0",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png"
+        },
+        "clanLevel": 11,
+        "stars": 68,
+        "destructionPercentage": 78.666664
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210812T184212.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 44,
+        "stars": 81,
+        "destructionPercentage": 95.666664,
+        "expEarned": 342
+      },
+      "opponent": {
+        "tag": "#22JYU9JQQ",
+        "name": "luv u pr....",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/bvYgKcHUjTsKYxtM64wAYLDpwqmgAhLLOoa_2XdMREk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/bvYgKcHUjTsKYxtM64wAYLDpwqmgAhLLOoa_2XdMREk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/bvYgKcHUjTsKYxtM64wAYLDpwqmgAhLLOoa_2XdMREk.png"
+        },
+        "clanLevel": 15,
+        "stars": 68,
+        "destructionPercentage": 86.23333
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20210810T182552.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 207,
+        "stars": 401,
+        "destructionPercentage": 482.26666,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 444,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210801T190035.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 65,
+        "stars": 105,
+        "destructionPercentage": 92.1,
+        "expEarned": 412
+      },
+      "opponent": {
+        "tag": "#2Y8CVJ0C",
+        "name": "-İSTANBUL-",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/748k3ImFznDLQZCJuM_U__qjVxcFzU0e5LuF4bC4DRo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/748k3ImFznDLQZCJuM_U__qjVxcFzU0e5LuF4bC4DRo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/748k3ImFznDLQZCJuM_U__qjVxcFzU0e5LuF4bC4DRo.png"
+        },
+        "clanLevel": 20,
+        "stars": 92,
+        "destructionPercentage": 85.5
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210730T155022.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 64,
+        "stars": 102,
+        "destructionPercentage": 92.925,
+        "expEarned": 429
+      },
+      "opponent": {
+        "tag": "#2Y0Q0288U",
+        "name": "WAR DISTROYERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fDd9rtVGaT30BF2-XklS5paUaDHvCslRzHp5wf-ZGqE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fDd9rtVGaT30BF2-XklS5paUaDHvCslRzHp5wf-ZGqE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fDd9rtVGaT30BF2-XklS5paUaDHvCslRzHp5wf-ZGqE.png"
+        },
+        "clanLevel": 14,
+        "stars": 92,
+        "destructionPercentage": 81.975
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210728T153800.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 55,
+        "stars": 103,
+        "destructionPercentage": 93.65,
+        "expEarned": 411
+      },
+      "opponent": {
+        "tag": "#2Y92CP0RV",
+        "name": "雲殿",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Mknqr2wlg28pVXfRMy_fAMkgkDBV6su5OhQz9oz-z0s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Mknqr2wlg28pVXfRMy_fAMkgkDBV6su5OhQz9oz-z0s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Mknqr2wlg28pVXfRMy_fAMkgkDBV6su5OhQz9oz-z0s.png"
+        },
+        "clanLevel": 11,
+        "stars": 89,
+        "destructionPercentage": 75.875
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210726T160510.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 57,
+        "stars": 98,
+        "destructionPercentage": 90,
+        "expEarned": 425
+      },
+      "opponent": {
+        "tag": "#2PJ2YRJLJ",
+        "name": "RAIPURIANS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2Zn3XRSZU9bl0JNXgXaI9ZTtAYKdRQ37gZOeYJIz3Fw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2Zn3XRSZU9bl0JNXgXaI9ZTtAYKdRQ37gZOeYJIz3Fw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2Zn3XRSZU9bl0JNXgXaI9ZTtAYKdRQ37gZOeYJIz3Fw.png"
+        },
+        "clanLevel": 14,
+        "stars": 97,
+        "destructionPercentage": 85.775
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210723T193636.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 55,
+        "stars": 83,
+        "destructionPercentage": 93.566666,
+        "expEarned": 330
+      },
+      "opponent": {
+        "tag": "#9UYRQPJ9",
+        "name": "El Salvador #1",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Mk4XGNjzE5H7KTAqneIZ2NNsgykqfEuwTSRmjxfyPyU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Mk4XGNjzE5H7KTAqneIZ2NNsgykqfEuwTSRmjxfyPyU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Mk4XGNjzE5H7KTAqneIZ2NNsgykqfEuwTSRmjxfyPyU.png"
+        },
+        "clanLevel": 24,
+        "stars": 65,
+        "destructionPercentage": 77.76667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210721T193801.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 50,
+        "stars": 75,
+        "destructionPercentage": 85.23333,
+        "expEarned": 288
+      },
+      "opponent": {
+        "tag": "#RPYLRVRU",
+        "name": "⚡Bom Bom Attak⚡",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
+        },
+        "clanLevel": 15,
+        "stars": 84,
+        "destructionPercentage": 94.833336
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210719T185337.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 55,
+        "stars": 79,
+        "destructionPercentage": 90.433334,
+        "expEarned": 345
+      },
+      "opponent": {
+        "tag": "#RRPUUYVC",
+        "name": "cuz'nBud$$",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RJVb7VdCbxqbL8R3QgIPx18z6g9D1wJ9a_HP0F1q1vA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RJVb7VdCbxqbL8R3QgIPx18z6g9D1wJ9a_HP0F1q1vA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RJVb7VdCbxqbL8R3QgIPx18z6g9D1wJ9a_HP0F1q1vA.png"
+        },
+        "clanLevel": 13,
+        "stars": 39,
+        "destructionPercentage": 47.533333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210717T172803.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 48,
+        "stars": 80,
+        "destructionPercentage": 92.13333,
+        "expEarned": 338
+      },
+      "opponent": {
+        "tag": "#LQ0JC9VC",
+        "name": "HEROES OF 71",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UxGpygwkdxtWsj-uKHM4_IEfTuveRbnneYDP9Ge3d28.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UxGpygwkdxtWsj-uKHM4_IEfTuveRbnneYDP9Ge3d28.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UxGpygwkdxtWsj-uKHM4_IEfTuveRbnneYDP9Ge3d28.png"
+        },
+        "clanLevel": 18,
+        "stars": 79,
+        "destructionPercentage": 90.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210715T171152.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 47,
+        "stars": 73,
+        "destructionPercentage": 86.76667,
+        "expEarned": 282
+      },
+      "opponent": {
+        "tag": "#C2QVULP2",
+        "name": "INDIAN AVANGERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/XNIFtDqSIoRaZrewJf03vNQjb0vHSSb5UWjLzMNsLNM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/XNIFtDqSIoRaZrewJf03vNQjb0vHSSb5UWjLzMNsLNM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/XNIFtDqSIoRaZrewJf03vNQjb0vHSSb5UWjLzMNsLNM.png"
+        },
+        "clanLevel": 13,
+        "stars": 81,
+        "destructionPercentage": 95.1
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210713T180241.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 53,
+        "stars": 83,
+        "destructionPercentage": 95.7,
+        "expEarned": 326
+      },
+      "opponent": {
+        "tag": "#UY2LRP9V",
+        "name": "☠BAD ATTITUDE☠",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9lVXxMBnaADp-LvzRI9QarbyMMVNeWwqXQDOwtIgbzQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9lVXxMBnaADp-LvzRI9QarbyMMVNeWwqXQDOwtIgbzQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9lVXxMBnaADp-LvzRI9QarbyMMVNeWwqXQDOwtIgbzQ.png"
+        },
+        "clanLevel": 14,
+        "stars": 70,
+        "destructionPercentage": 84.933334
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210710T190224.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KXOkjX30BUHok9zsDzZWx9BjDrBFEBmveqHNv7-iae8.png"
+        },
+        "clanLevel": 16,
+        "attacks": 210,
+        "stars": 558,
+        "destructionPercentage": 591.2,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 309,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210701T172829.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 55,
+        "stars": 83,
+        "destructionPercentage": 94.8,
+        "expEarned": 342
+      },
+      "opponent": {
+        "tag": "#PC0Y8JG",
+        "name": "#Big war#",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Mfy9dFTYiFCZsHI_MPYLrK9qH7RHzCCr7ynizjxDWtA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Mfy9dFTYiFCZsHI_MPYLrK9qH7RHzCCr7ynizjxDWtA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Mfy9dFTYiFCZsHI_MPYLrK9qH7RHzCCr7ynizjxDWtA.png"
+        },
+        "clanLevel": 14,
+        "stars": 80,
+        "destructionPercentage": 91
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210629T171653.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 47,
+        "stars": 65,
+        "destructionPercentage": 89.04,
+        "expEarned": 300
+      },
+      "opponent": {
+        "tag": "#2Y0JRQG2R",
+        "name": "buyut eyang",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZSS2eUrG8fqe0FXOMghm9Z3ocOqxoP3txCql0ESdpxU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZSS2eUrG8fqe0FXOMghm9Z3ocOqxoP3txCql0ESdpxU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZSS2eUrG8fqe0FXOMghm9Z3ocOqxoP3txCql0ESdpxU.png"
+        },
+        "clanLevel": 8,
+        "stars": 57,
+        "destructionPercentage": 80.52
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210627T165021.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 42,
+        "stars": 66,
+        "destructionPercentage": 92.88,
+        "expEarned": 250
+      },
+      "opponent": {
+        "tag": "#28Q20RP9Y",
+        "name": "Mtr Spartans",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/TDMJ_3bCMKpmnuJM-1WcFKpb0TOtvts6PMtDLHzJvaM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/TDMJ_3bCMKpmnuJM-1WcFKpb0TOtvts6PMtDLHzJvaM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/TDMJ_3bCMKpmnuJM-1WcFKpb0TOtvts6PMtDLHzJvaM.png"
+        },
+        "clanLevel": 14,
+        "stars": 70,
+        "destructionPercentage": 97
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210625T165425.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 43,
+        "stars": 68,
+        "destructionPercentage": 92.96,
+        "expEarned": 300
+      },
+      "opponent": {
+        "tag": "#2PQLR9PLP",
+        "name": "Bhola nath clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png"
+        },
+        "clanLevel": 13,
+        "stars": 61,
+        "destructionPercentage": 86.08
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210623T170032.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 48,
+        "stars": 67,
+        "destructionPercentage": 94.32,
+        "expEarned": 297
+      },
+      "opponent": {
+        "tag": "#2P0UUVGG0",
+        "name": "We are Bangali",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
+        },
+        "clanLevel": 15,
+        "stars": 65,
+        "destructionPercentage": 86.92
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210621T150732.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 32,
+        "stars": 54,
+        "destructionPercentage": 94.35,
+        "expEarned": 252
+      },
+      "opponent": {
+        "tag": "#CLY8JUQ8",
+        "name": "Big Dogs",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zPEmRXVfCzXQF1S322p13ilanjrf2PPpYGxXjVfvHls.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zPEmRXVfCzXQF1S322p13ilanjrf2PPpYGxXjVfvHls.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zPEmRXVfCzXQF1S322p13ilanjrf2PPpYGxXjVfvHls.png"
+        },
+        "clanLevel": 15,
+        "stars": 36,
+        "destructionPercentage": 70.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210619T154547.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 38,
+        "stars": 62,
+        "destructionPercentage": 90.16,
+        "expEarned": 295
+      },
+      "opponent": {
+        "tag": "#28Y8GRQ08",
+        "name": "भारतीय सेना",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/NQxpJ90vY7sDiRhnYOGHQdx7IM-vb0XsXBpI3d44IIE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/NQxpJ90vY7sDiRhnYOGHQdx7IM-vb0XsXBpI3d44IIE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/NQxpJ90vY7sDiRhnYOGHQdx7IM-vb0XsXBpI3d44IIE.png"
+        },
+        "clanLevel": 13,
+        "stars": 30,
+        "destructionPercentage": 43.48
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210616T195658.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 42,
+        "stars": 57,
+        "destructionPercentage": 81.08,
+        "expEarned": 242
+      },
+      "opponent": {
+        "tag": "#PVV80RQQ",
+        "name": "HEIDARIUN",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
+        },
+        "clanLevel": 15,
+        "stars": 60,
+        "destructionPercentage": 83.72
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210614T191542.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 45,
+        "stars": 70,
+        "destructionPercentage": 92.96,
+        "expEarned": 295
+      },
+      "opponent": {
+        "tag": "#22808JQUY",
+        "name": "bd",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nZ1J0EI8iOmv31AAn2TDFNs5O5Z8VpVAWID7Hw-gSOE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nZ1J0EI8iOmv31AAn2TDFNs5O5Z8VpVAWID7Hw-gSOE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nZ1J0EI8iOmv31AAn2TDFNs5O5Z8VpVAWID7Hw-gSOE.png"
+        },
+        "clanLevel": 15,
+        "stars": 51,
+        "destructionPercentage": 75.52
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210612T164251.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 58,
+        "stars": 97,
+        "destructionPercentage": 85.025,
+        "expEarned": 359
+      },
+      "opponent": {
+        "tag": "#28RYQ0G82",
+        "name": "winners Clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/imY86N7RGm-NKM1HjcZAAsRd8JDmQt36dewycxHyyck.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/imY86N7RGm-NKM1HjcZAAsRd8JDmQt36dewycxHyyck.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/imY86N7RGm-NKM1HjcZAAsRd8JDmQt36dewycxHyyck.png"
+        },
+        "clanLevel": 13,
+        "stars": 99,
+        "destructionPercentage": 88.95
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20210610T164709.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/c-HSAFNsndHsiqeS1LZ0QXI4W0Mw09NIKA1ls-u3yPU.png"
+        },
+        "clanLevel": 15,
+        "attacks": 206,
+        "stars": 403,
+        "destructionPercentage": 491.6,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 456,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210602T163526.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 51,
+        "stars": 79,
+        "destructionPercentage": 90.333336,
+        "expEarned": 318
+      },
+      "opponent": {
+        "tag": "#PUVLVP0P",
+        "name": "superprens",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/phmF5Klavs-t9GSv-u8-ODF0mgPPqndG2fAC_P5WOWU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/phmF5Klavs-t9GSv-u8-ODF0mgPPqndG2fAC_P5WOWU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/phmF5Klavs-t9GSv-u8-ODF0mgPPqndG2fAC_P5WOWU.png"
+        },
+        "clanLevel": 19,
+        "stars": 56,
+        "destructionPercentage": 72.066666
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210531T163656.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 50,
+        "stars": 76,
+        "destructionPercentage": 89.066666,
+        "expEarned": 339
+      },
+      "opponent": {
+        "tag": "#29LUCYGY8",
+        "name": "КЫЗЫЛ ТУ 28",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+        },
+        "clanLevel": 10,
+        "stars": 35,
+        "destructionPercentage": 43.133335
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210528T201745.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 46,
+        "stars": 78,
+        "destructionPercentage": 89.433334,
+        "expEarned": 334
+      },
+      "opponent": {
+        "tag": "#22JQ2QQRL",
+        "name": "毕圣",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UnIuelTGM8qotjW1cTTlKX0yQoeHZohke7rEKlVyMy8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UnIuelTGM8qotjW1cTTlKX0yQoeHZohke7rEKlVyMy8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UnIuelTGM8qotjW1cTTlKX0yQoeHZohke7rEKlVyMy8.png"
+        },
+        "clanLevel": 12,
+        "stars": 37,
+        "destructionPercentage": 46.166668
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210526T170806.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 46,
+        "stars": 70,
+        "destructionPercentage": 87.96667,
+        "expEarned": 270
+      },
+      "opponent": {
+        "tag": "#PRJ2Q2G2",
+        "name": "Jarvi$",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dCYB3bdhaEJ2vxjBURtxoFj4jshWC5baeKBSQytthxU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dCYB3bdhaEJ2vxjBURtxoFj4jshWC5baeKBSQytthxU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dCYB3bdhaEJ2vxjBURtxoFj4jshWC5baeKBSQytthxU.png"
+        },
+        "clanLevel": 9,
+        "stars": 78,
+        "destructionPercentage": 91.3
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210524T170916.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 46,
+        "stars": 66,
+        "destructionPercentage": 90.16,
+        "expEarned": 245
+      },
+      "opponent": {
+        "tag": "#PQ8G8L8C",
+        "name": "RCP BOYS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MlO2bF8hTlDtK6f_WYQGLV5Cd0KnqBHMGOZ3RMLkYlo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MlO2bF8hTlDtK6f_WYQGLV5Cd0KnqBHMGOZ3RMLkYlo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MlO2bF8hTlDtK6f_WYQGLV5Cd0KnqBHMGOZ3RMLkYlo.png"
+        },
+        "clanLevel": 16,
+        "stars": 70,
+        "destructionPercentage": 95.48
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210522T154055.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 45,
+        "stars": 63,
+        "destructionPercentage": 86.56,
+        "expEarned": 219
+      },
+      "opponent": {
+        "tag": "#289P0C2LR",
+        "name": "THE LAST HEROES",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fdFnu4VH6mHrMFUv_mpjL5asLrgYDooL2mEcBbyTH5M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fdFnu4VH6mHrMFUv_mpjL5asLrgYDooL2mEcBbyTH5M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fdFnu4VH6mHrMFUv_mpjL5asLrgYDooL2mEcBbyTH5M.png"
+        },
+        "clanLevel": 10,
+        "stars": 65,
+        "destructionPercentage": 90.68
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210520T161239.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 50,
+        "stars": 81,
+        "destructionPercentage": 91.7,
+        "expEarned": 287
+      },
+      "opponent": {
+        "tag": "#2RLRLC0Y",
+        "name": "VeeraTamilargal",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/alkjnxdL8bUle9ANREgOb0wx5UF0LfWLdtp21Y7gneg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/alkjnxdL8bUle9ANREgOb0wx5UF0LfWLdtp21Y7gneg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/alkjnxdL8bUle9ANREgOb0wx5UF0LfWLdtp21Y7gneg.png"
+        },
+        "clanLevel": 18,
+        "stars": 83,
+        "destructionPercentage": 95.333336
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210518T164436.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 50,
+        "stars": 78,
+        "destructionPercentage": 90.333336,
+        "expEarned": 313
+      },
+      "opponent": {
+        "tag": "#JUPGU0UC",
+        "name": "Chennai Guys",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
+        },
+        "clanLevel": 16,
+        "stars": 77,
+        "destructionPercentage": 92.46667
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210516T164052.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 49,
+        "stars": 75,
+        "destructionPercentage": 87.46667,
+        "expEarned": 338
+      },
+      "opponent": {
+        "tag": "#Y8C8GQ99",
+        "name": "CoC Blocs",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/swLogJi8M3hvsBBJMonYXJ2t2gY2KoLrgzYn0w9wnQ0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/swLogJi8M3hvsBBJMonYXJ2t2gY2KoLrgzYn0w9wnQ0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/swLogJi8M3hvsBBJMonYXJ2t2gY2KoLrgzYn0w9wnQ0.png"
+        },
+        "clanLevel": 14,
+        "stars": 62,
+        "destructionPercentage": 81.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210514T172627.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 49,
+        "stars": 79,
+        "destructionPercentage": 91.26667,
+        "expEarned": 345
+      },
+      "opponent": {
+        "tag": "#2YRLL0Y02",
+        "name": "England Reborn",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png"
+        },
+        "clanLevel": 7,
+        "stars": 59,
+        "destructionPercentage": 71.86667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210512T174752.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 72,
+        "stars": 100,
+        "destructionPercentage": 86.85,
+        "expEarned": 370
+      },
+      "opponent": {
+        "tag": "#C2QVULP2",
+        "name": "INDIAN AVANGERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0msuaOT_SKZB67qC80NVhQwX_G4888TOYjIg37_DBO8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0msuaOT_SKZB67qC80NVhQwX_G4888TOYjIg37_DBO8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0msuaOT_SKZB67qC80NVhQwX_G4888TOYjIg37_DBO8.png"
+        },
+        "clanLevel": 12,
+        "stars": 106,
+        "destructionPercentage": 92.275
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20210510T175920.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/D1FrA5I-GOFNkgQSC48E_zANNxjh9ZLGCgiIud8QQy4.png"
+        },
+        "clanLevel": 15,
+        "attacks": 209,
+        "stars": 473,
+        "destructionPercentage": 541.73334,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 400,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210409T181217.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z9xvesa68xSQqSDOg6eDofa3vPqb6-OqmyGITnA2UPg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z9xvesa68xSQqSDOg6eDofa3vPqb6-OqmyGITnA2UPg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z9xvesa68xSQqSDOg6eDofa3vPqb6-OqmyGITnA2UPg.png"
+        },
+        "clanLevel": 14,
+        "attacks": 105,
+        "stars": 292,
+        "destructionPercentage": 580.4,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 188,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20210310T185315.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z9xvesa68xSQqSDOg6eDofa3vPqb6-OqmyGITnA2UPg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z9xvesa68xSQqSDOg6eDofa3vPqb6-OqmyGITnA2UPg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z9xvesa68xSQqSDOg6eDofa3vPqb6-OqmyGITnA2UPg.png"
+        },
+        "clanLevel": 14,
+        "attacks": 101,
+        "stars": 200,
+        "destructionPercentage": 459.53333,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 232,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210210T071811.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 103,
+        "stars": 255,
+        "destructionPercentage": 521.2,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 192,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210110T172940.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KM41-WyrqmjhlKCXhqMoqa_eLnrkwT1LBWdAa19umDg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KM41-WyrqmjhlKCXhqMoqa_eLnrkwT1LBWdAa19umDg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KM41-WyrqmjhlKCXhqMoqa_eLnrkwT1LBWdAa19umDg.png"
+        },
+        "clanLevel": 14,
+        "attacks": 104,
+        "stars": 314,
+        "destructionPercentage": 590.4,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 140,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20201209T223054.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/NjrbZLxKzmx2MEdI_nITwbhIfq6lcs_ZlmXQxgDv1xY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/NjrbZLxKzmx2MEdI_nITwbhIfq6lcs_ZlmXQxgDv1xY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/NjrbZLxKzmx2MEdI_nITwbhIfq6lcs_ZlmXQxgDv1xY.png"
+        },
+        "clanLevel": 13,
+        "attacks": 104,
+        "stars": 251,
+        "destructionPercentage": 543.73334,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 201,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201109T183056.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2LRYP09Q",
+        "name": "! INDIAN WAR !",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rkBpGYCFiGj7ilCJk51SXObPSuBmqMFku28Qj9ONr2Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rkBpGYCFiGj7ilCJk51SXObPSuBmqMFku28Qj9ONr2Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rkBpGYCFiGj7ilCJk51SXObPSuBmqMFku28Qj9ONr2Q.png"
+        },
+        "clanLevel": 13,
+        "attacks": 104,
+        "stars": 316,
+        "destructionPercentage": 619.2,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 164,
+        "destructionPercentage": 0
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

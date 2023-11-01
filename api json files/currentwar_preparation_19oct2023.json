@@ -1,0 +1,458 @@
+{
+  "state": "preparation",
+  "teamSize": 30,
+  "attacksPerMember": 2,
+  "preparationStartTime": "20231018T192845.000Z",
+  "startTime": "20231019T182845.000Z",
+  "endTime": "20231020T182845.000Z",
+  "clan": {
+    "tag": "#2LRYP09Q",
+    "name": "! INDIAN WAR !",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/v5KeRyuG1oHBPrXA4rE-4yz04gBSUuWEG8fRvhSf6AU.png"
+    },
+    "clanLevel": 24,
+    "attacks": 0,
+    "stars": 0,
+    "destructionPercentage": 0,
+    "members": [
+      {
+        "tag": "#9CU9RPRU",
+        "name": "I❤️ Shivangi",
+        "townhallLevel": 15,
+        "mapPosition": 21,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8UQR0GQY0",
+        "name": "mehebub",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2QUG9PUPV",
+        "name": "rancy.....",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#R28LR88U",
+        "name": "ashish\"golu",
+        "townhallLevel": 13,
+        "mapPosition": 30,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8QPC0QUUU",
+        "name": "Om S",
+        "townhallLevel": 14,
+        "mapPosition": 25,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YU8CL90Q8",
+        "name": "Rahulk999",
+        "townhallLevel": 13,
+        "mapPosition": 28,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9V8Y8JVQV",
+        "name": "Roshan",
+        "townhallLevel": 14,
+        "mapPosition": 22,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9PYL9V9VC",
+        "name": "VEERBHADRA",
+        "townhallLevel": 14,
+        "mapPosition": 24,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YC9GPRJGQ",
+        "name": "LOKANATH",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2PGUYJCUL",
+        "name": "Aniket",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#JL0RLUJ2",
+        "name": "Emperor Mahesh",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9VJ8CJ2V9",
+        "name": "SiPu_DoN",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9PU9JQCQV",
+        "name": "HAMIM ISLAM",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LP89QQPGU",
+        "name": "Abdut10",
+        "townhallLevel": 14,
+        "mapPosition": 27,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P9QYLGJVQ",
+        "name": "『Đ疋及AYAɳ』",
+        "townhallLevel": 13,
+        "mapPosition": 29,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RQPR80QU",
+        "name": "WAG",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PCY90UVP8",
+        "name": "Suresh",
+        "townhallLevel": 14,
+        "mapPosition": 23,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2JL0Q290",
+        "name": "TanuJ",
+        "townhallLevel": 14,
+        "mapPosition": 26,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2QCPU9Q9R",
+        "name": "@d!ty@ Du#@",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8QL2PCRYQ",
+        "name": "⚓⚓Spaidy⚓⚓",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PUC09G9PQ",
+        "name": "mehebub joniour",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G2QQ0RRJ",
+        "name": "ALPHA ROMEO",
+        "townhallLevel": 15,
+        "mapPosition": 19,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Q9QR00QVV",
+        "name": "Dhiman",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#VP9GJ2V8",
+        "name": "CLAN MASTER",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P00GRYCV9",
+        "name": "S N I P E R",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P0JRVJQJQ",
+        "name": "BISWAJIT",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9988JG09L",
+        "name": "vvb",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8C80QPQCC",
+        "name": "mehebub sciour",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#89R2CU0QL",
+        "name": "AMBAR",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9QPR02VYJ",
+        "name": "Deepak",
+        "townhallLevel": 14,
+        "mapPosition": 20,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#8VQQVLGU",
+    "name": "dokhtar irnii",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png"
+    },
+    "clanLevel": 20,
+    "attacks": 0,
+    "stars": 0,
+    "destructionPercentage": 0,
+    "members": [
+      {
+        "tag": "#J8RRLL9C",
+        "name": "pouya.a",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#80Y22P9UJ",
+        "name": "الکس",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9CRPQ2RVV",
+        "name": "گرگ زخمی $",
+        "townhallLevel": 13,
+        "mapPosition": 27,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9000UJY8",
+        "name": "ALI",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LU8JYGGCL",
+        "name": "سام",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PG09PGVR8",
+        "name": "Navid",
+        "townhallLevel": 13,
+        "mapPosition": 25,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y9R8LYQPG",
+        "name": "§ãñä",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2LG2RQRVC",
+        "name": "nabodgar",
+        "townhallLevel": 14,
+        "mapPosition": 21,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8CRCRVY09",
+        "name": "♤آقای خاص♤",
+        "townhallLevel": 13,
+        "mapPosition": 26,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G0R808R",
+        "name": "MPSOOROO",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2UC9JQV90",
+        "name": "pourya",
+        "townhallLevel": 14,
+        "mapPosition": 23,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PC9CJJ0GL",
+        "name": "ALIREZA",
+        "townhallLevel": 15,
+        "mapPosition": 19,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PUCJVQ8Y0",
+        "name": "آشیل",
+        "townhallLevel": 14,
+        "mapPosition": 24,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YQRVCPPR",
+        "name": "hellboy",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#20CV0UPLQ",
+        "name": "Aliツ",
+        "townhallLevel": 12,
+        "mapPosition": 29,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2P2GJ29YJ",
+        "name": "arash",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PY0YPU992",
+        "name": "helboy",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YV2YCC0RP",
+        "name": "❤️Queen❤️",
+        "townhallLevel": 13,
+        "mapPosition": 28,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#CJUVCV28",
+        "name": "crazy",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9QCYRQLQC",
+        "name": "MANSUOR",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LP9C0Q8YG",
+        "name": "کارن",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PV9QUPLCV",
+        "name": "ONE CHAMPION",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QJC20C8U",
+        "name": "vahid.R",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RCCYJUUU",
+        "name": "Ahmadreza",
+        "townhallLevel": 14,
+        "mapPosition": 22,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PP0V2L8J",
+        "name": "jordan 23",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QJYC902GR",
+        "name": "karo2",
+        "townhallLevel": 10,
+        "mapPosition": 30,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P8P8GVPCU",
+        "name": "Dra",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PLC8CL228",
+        "name": "اکشن",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8LL0UG90V",
+        "name": "NADER.M",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#98LYL9R29",
+        "name": "darya",
+        "townhallLevel": 15,
+        "mapPosition": 20,
+        "opponentAttacks": 0
+      }
+    ]
+  }
+}
